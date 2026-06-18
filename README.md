@@ -44,4 +44,4 @@ O dashboard apresenta:
 - Mapa geográfico
 
 ## Finalidade
-Este dashboard foi desenvolvido como parte do curso Microsoft Power BI para Business Intelligence e Ciência de Dados, com objetivo de aprender a ferramenta e com foco na criação de uma solução visual para análise de vendas globais, facilitando a interpretação dos dados e a tomada de decisão.
+Este dashboard foi desenvolvido como parte do curso "Microsoft Power BI para Business Intelligence e Ciência de Dados", com objetivo de aprender a ferramenta e com foco na criação de uma solução visual para análise de vendas globais, facilitando a interpretação dos dados e a tomada de decisão.
